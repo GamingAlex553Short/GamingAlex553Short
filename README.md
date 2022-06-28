@@ -10,8 +10,6 @@ It is one of the many other chess games.
 
 This is a secondary channel on YouTube.
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/P5jbLXtoSVU" title="Press the 👍button and subscribe button." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Link to secondary channel: https://www.youtube.com/channel/UCv2gNs6ATZ2HUwNlDnlV5uQ
 Link to main channel: https://www.youtube.com/channel/UCjii0zd1MTwXxv_r3Ga2R_Q
 Link to my secondary channel GitHub profile: https://github.com/GamingAlex553Short
