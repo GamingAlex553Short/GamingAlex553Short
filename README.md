@@ -11,6 +11,7 @@ This is a secondary channel on YouTube.
 
 
 
+
 Link to secondary channel: https://www.youtube.com/channel/UCv2gNs6ATZ2HUwNlDnlV5uQ
 
 
@@ -39,6 +40,7 @@ Link to my blog on chess.com: https://www.chess.com/blog/GamingAlex553
 
 
 Link to my blog on lichess.org: https://lichess.org/@/GamingAlex553v2/blog
+
 
 
 
