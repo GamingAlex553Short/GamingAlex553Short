@@ -4,10 +4,6 @@
 Welcome to my profile / deposit!
 
 
-<iframe src="https://lichess.org/embed/GkoV0e6g?theme=auto&bg=auto"
-width=600 height=397 frameborder=0></iframe>
-
-
 It is one of the many other chess games.
 
 
